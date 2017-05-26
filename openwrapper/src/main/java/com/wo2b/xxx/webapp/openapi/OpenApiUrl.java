@@ -42,7 +42,7 @@ public class OpenApiUrl
 	 * 官网网站, 不建议直接访问, 请使用{@link OpenApiUrl#getIndexUrl()} .
 	 */
 	@Deprecated
-	public static final String WO2B_INDEX_ALIYUN = "http://www.wo2b.com";
+	public static final String WO2B_INDEX_ALIYUN = "http://www.uestc.edu.cn";
 
 	/**
 	 * 返回服务器的地址
