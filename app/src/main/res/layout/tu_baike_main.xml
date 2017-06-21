@@ -33,7 +33,7 @@
                 android:gravity="center_vertical"
                 android:paddingLeft="10dp"
                 android:singleLine="true"
-                android:textColor="@color/font_dark"
+                android:textColor="#00ff00"
                 android:textSize="13sp" />
 
             <TextView
@@ -73,7 +73,7 @@
                 android:includeFontPadding="false"
                 android:paddingLeft="@dimen/dimen_10"
                 android:text="@string/recommend_tips_hot"
-                android:textColor="@color/font_normal" />
+                android:textColor="#ff0000" />
 
             <View
                 android:layout_width="match_parent"
